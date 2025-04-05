@@ -1,4 +1,4 @@
-# 🌐 Online Marketing Brand Analysis Framework
+#  Online Marketing Brand Analysis Framework
 
 This project presents a comprehensive framework for analyzing **brand popularity and online presence** using a combination of **web scraping**, **network analysis**, and **sentiment analysis**. The system builds a graph-based representation of online brand mentions and ranks them using **PageRank** and sentiment scores to identify the most influential and positively received content.
 
@@ -6,7 +6,7 @@ This project presents a comprehensive framework for analyzing **brand popularity
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Evaluate the **digital visibility and popularity** of brands  
 - Analyze **sentiment** surrounding brand mentions  
@@ -21,7 +21,7 @@ This project presents a comprehensive framework for analyzing **brand popularity
 - Scrape search engine results for brand-related queries using `BeautifulSoup`
 - Extract metadata, URLs, snippets, and page content
 
-### 🌐 2. Graph Network Construction
+###  2. Graph Network Construction
 - Build a **brand-centric network** where:
   - Nodes represent web pages or domains
   - Edges are based on co-occurrence, references, or domain relationships
