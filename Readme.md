@@ -33,7 +33,7 @@ This project presents a comprehensive framework for analyzing **brand popularity
 
 ###  4. Sentiment Analysis
 - Perform sentiment analysis on scraped content using:
-  - `TextBlob`, `VADER`, or `HuggingFace transformers`
+  - `TextBlob`, `VADER`
 - Combine sentiment score with PageRank to rank content by **impact + positivity**
 
 ---
